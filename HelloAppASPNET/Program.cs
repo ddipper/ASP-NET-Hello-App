@@ -32,8 +32,8 @@ app.Run(async (context) =>
     }
 });
 
-app.Run();
 
+app.Run();
 
 
 /*app.Run(async (context) =>
