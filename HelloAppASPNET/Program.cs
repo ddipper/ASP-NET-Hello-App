@@ -1,7 +1,40 @@
-using Microsoft.AspNetCore.Mvc.Rendering;
-using Microsoft.Extensions.FileProviders;
 
-var builder = WebApplication.CreateBuilder(args);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
 
 app.Run(async (context) =>
@@ -32,8 +65,7 @@ app.Run(async (context) =>
     }
 });
 
-
-app.Run();
+app.Run();*/
 
 
 /*app.Run(async (context) =>
